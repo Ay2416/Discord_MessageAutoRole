@@ -83,7 +83,7 @@ discord.js
 
 3. Open "src" folder. and, "index.js" file open text editor.(Visual Studio code etc...)
 
-4."role_id_1" and "role_id_2" write to use role id. "your_password" write to use keyword.
+4. "role_id_1" and "role_id_2" write to use role id. "your_password" write to use keyword.
 * refer site:[Google translate this site](https://note.com/bardbot/n/na70832cb70a3?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
 
 5. Node.js need. Please refer to the following.
