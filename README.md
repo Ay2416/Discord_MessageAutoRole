@@ -12,7 +12,6 @@ English Version editting...
 [English](https://github.com/Ay2416/Discord_MessageAutoRole#english)
 
 # Japanese
-Sorry, Source code comment out and message in Japanese...
 
 ## 使用言語
 JavaScript
@@ -82,11 +81,18 @@ discord.js
 
 2. Zip File unzip. "Discord_MessageAutoRole-main" folder open, and ".env" file open in text editor. (Visual Studio code etc...) "your_discord_bot_token" write my discord bot token. "src" foleder open, and "index.js" file open in text editor. Source code search "auth_key: 'your_auth_key'". "your_auth_key" write my deepl API key.
 
-3. Node.js need. Please refer to the following.
+3. Open "src" folder. and, "index.js" file open text editor.(Visual Studio code etc...)
+
+4."role_id_1" and "role_id_2" write to use role id. 
+* refer site:[Google translate this site](https://note.com/bardbot/n/na70832cb70a3?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
+
+5. Node.js need. Please refer to the following.
 
 * [https://nodejs.org/en/](https://nodejs.org/en/)
 
-4. "Discord_MessageAutoRole-main" directory open Terminal(Mac, Linux) or Command Prompt. Typing command "npm install". Next, typing command "node src/index.js", start bot.
+6. "Discord_MessageAutoRole-main" directory open Terminal(Mac, Linux) or Command Prompt. Typing command "npm install". Next, typing command "node src/index.js", start bot.
+
+7.
 
 ## Extension library and use data
 
