@@ -73,6 +73,10 @@ discord.js
 
 ## expanation
 
+The bot work on the discord.
+
+Message match setting keyword, and bot give role.
+
 ## How to use?
 
 1. Discord account create. Bot work token. Because of that, discord bot create and get the code. Please refer to the following. (※Sorry, Japanese Website)
