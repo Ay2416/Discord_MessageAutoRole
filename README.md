@@ -75,7 +75,7 @@ discord.js
 
 The bot work on the discord.
 
-Message match setting keyword, and bot give role.
+Message match to set keyword, and bot give role.
 
 ## How to use?
 
