@@ -1,9 +1,15 @@
 # Discord_MessageAutoRole
 Sorry, Source code comment out and message in Japanese...
-Editting...
+
+English Version editting...
 
 ## Download
 [Click](https://github.com/Ay2416/Discord_MessageAutoRole/archive/refs/heads/main.zip)
+
+## table of contents
+[Japanese](https://github.com/Ay2416/Discord_MessageAutoRole#japanese)
+
+[English](https://github.com/Ay2416/Discord_MessageAutoRole#english)
 
 # Japanese
 Sorry, Source code comment out and message in Japanese...
