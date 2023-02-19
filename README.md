@@ -71,7 +71,7 @@ Node.js v18
 
 discord.js
 
-## expanation
+## Expanation
 
 The bot work on the discord.
 
