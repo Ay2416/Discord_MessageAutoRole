@@ -6,7 +6,7 @@ English Version editting...
 ## Download
 [Click](https://github.com/Ay2416/Discord_MessageAutoRole/archive/refs/heads/main.zip)
 
-## table of contents
+## Table of contents
 [Japanese](https://github.com/Ay2416/Discord_MessageAutoRole#japanese)
 
 [English](https://github.com/Ay2416/Discord_MessageAutoRole#english)
@@ -87,8 +87,8 @@ Message match to set keyword, and bot give role.
 
 3. Open "src" folder. and, "index.js" file open text editor.(Visual Studio code etc...)
 
-4. "role_id_1" and "role_id_2" write to use role id. "your_password" write to use keyword.
-* refer site:[Google translate this site](https://note.com/bardbot/n/na70832cb70a3?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
+4. "role_id_1" and "role_id_2" write to use role id. "your_password" write to use keyword.(※Sorry, Japanese Website)
+* Refer site:[Google translate this site](https://note.com/bardbot/n/na70832cb70a3?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
 
 5. Node.js need. Please refer to the following.
 
