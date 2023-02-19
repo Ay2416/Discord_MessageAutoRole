@@ -1,8 +1,6 @@
 # Discord_MessageAutoRole
 Sorry, Source code comment out and message in Japanese...
 
-English Version editting...
-
 ## Download
 [Click](https://github.com/Ay2416/Discord_MessageAutoRole/archive/refs/heads/main.zip)
 
