@@ -100,7 +100,7 @@ Message match to set keyword, and bot give role.
 
 ## Extension library and use data
 
-* Node.js：[https://nodejs.org/ja/](https://nodejs.org/ja/)
+* Node.js：[https://nodejs.org/en/](https://nodejs.org/en/)
 
 * discord.js：[https://discord.js.org/](https://discord.js.org/)
 
