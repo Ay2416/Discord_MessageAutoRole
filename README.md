@@ -52,8 +52,6 @@ Discord上で動作する、設定した合言葉に対して、認証に成功�
 
 * discord.js：[https://discord.js.org/](https://discord.js.org/)
 
-* node-fetch v2：[https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
-
 * Dotenv：[https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
 
 * Discord.js Japan User Group：[https://scrapbox.io/discordjs-japan/](https://scrapbox.io/discordjs-japan/)
@@ -103,8 +101,6 @@ Message match to set keyword, and bot give role.
 * Node.js：[https://nodejs.org/en/](https://nodejs.org/en/)
 
 * discord.js：[https://discord.js.org/](https://discord.js.org/)
-
-* node-fetch v2：[https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
 
 * Dotenv：[https://www.npmjs.com/package/dotenv](https://www.npmjs.com/package/dotenv)
 
